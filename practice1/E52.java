@@ -17,6 +17,7 @@ public class E52 {
       }
       else if (myNum<0) {
         System.out.println("negative");
+        
       }
       if (myNum<1) {
         System.out.println("small");
