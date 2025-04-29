@@ -5,7 +5,7 @@ import ap.excercises.ex4.E3_4.HallwayLightControl;
 public class E3_5 {
 
     public static void main(String[] args) {
-        HallwayLightControl circuit = new HallwayLightControl();//need E3.4
+        HallwayLightControl circuit = new HallwayLightControl();//need E3.4 
 
         
         System.out.println("Initial State:");
