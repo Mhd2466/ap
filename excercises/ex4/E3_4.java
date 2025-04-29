@@ -5,12 +5,12 @@ public class E3_4 {
         private boolean firstSwitchUp;
         private boolean secondSwitchUp;
     
-        public HallwayLightControl() {
+        public HallwayLightControl() { 
             
             firstSwitchUp = false;
             secondSwitchUp = false;
         }
-    
+ 
         public int getFirstSwitchState() {
             return firstSwitchUp ? 1 : 0;
         }
