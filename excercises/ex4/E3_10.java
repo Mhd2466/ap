@@ -23,7 +23,7 @@ public class E3_10 {
             return total;
         }
     
-        public int getItemCount() {
+        public int getItemCount() { 
             return itemCount;
         }
     
