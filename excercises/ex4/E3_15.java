@@ -16,7 +16,7 @@ public class Letter {
     private String body;
 
     public Letter(String from, String to) {
-        sender = from;
+        sender = from; 
         recipient = to;
         body = "";
     }
