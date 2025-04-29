@@ -18,7 +18,7 @@ public class E3_12 {
     public class Employee {
         private String name;
         private double salary;
-    
+     
         public Employee(String employeeName, double currentSalary) {
             name = employeeName;
             salary = currentSalary;
