@@ -23,7 +23,7 @@ public class HallwayLightControl {
 
         int first = getSwitchState(1);
         int second = getSwitchState(2);
-        return (first ^ second);
+        return (first ^ second); 
     }
 
     public void toggleSwitch(int switchNum) {
