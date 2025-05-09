@@ -33,7 +33,7 @@ public class Boat {
 
     public void move(double distance) {
         double radians = Math.toRadians(direction);
-        x += distance * Math.cos(radians);
+        x += distance * Math.cos(radians);// i dont know if this is what it wants or not but wrote in this form
         y += distance * Math.sin(radians);
     }
 }
