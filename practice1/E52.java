@@ -1,7 +1,7 @@
 package ap.practice1;
 import java.util.Scanner;
 public class E52 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
       Scanner myObj = new Scanner(System.in);
       
 
@@ -9,6 +9,7 @@ public class E52 {
       float myNum = myObj.nextFloat(); 
       if (myNum==0) {
         System.out.println("zero");
+        
         
       }
       else if (myNum>0) {
