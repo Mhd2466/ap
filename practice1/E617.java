@@ -17,6 +17,7 @@ public class E617 {
 
 
 
+        
 
 
         for (int i = 0; i < sideLength; i++) {
