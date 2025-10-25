@@ -11,7 +11,8 @@ public class E62a {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
         int num;
-
+ 
+        
         while (true) {
             num = scanner.nextInt();
             if (num == 0) break; 
