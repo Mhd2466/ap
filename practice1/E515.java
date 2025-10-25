@@ -23,6 +23,7 @@ public class E515 {
             tax+=0.02*25000;
             myNum-=75000;
             tax+=0.03*myNum;
+            
         }
         if (myNum>100000 & myNum<=250000) {
          
