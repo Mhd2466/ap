@@ -13,6 +13,7 @@ public class E618 {
 
 
     
+        
 
 
         for (int i = 1; i <= Length; i++) {
