@@ -25,6 +25,7 @@ import java.util.Scanner;
             return sum / values.size();
         }
     
+        
         public double getSmallest() {
             if (values.isEmpty()) return Double.NaN;
             double min = values.get(0);
