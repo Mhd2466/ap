@@ -12,6 +12,7 @@ public class E62d {
         int num;
         boolean firstDuplicate = true;
 
+        
         while (true) {
             num = scanner.nextInt();
             if (num == -1) break; 
