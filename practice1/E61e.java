@@ -8,10 +8,11 @@ public class E61e {
 
 
         System.out.print("Enter a number: ");
-        int num = scanner.nextInt();
+        int num = scanner.nextInt(); 
 
         int sum = 0;
 
+        
 
         while (num > 0) {
             int digit = num % 10; 
