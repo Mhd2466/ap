@@ -21,6 +21,7 @@ public class E518 {
     String first, second, third;
 
 
+    
     if (str1.compareTo(str2) <= 0 && str1.compareTo(str3) <= 0) {
         first = str1;
         if (str2.compareTo(str3) <= 0) {
