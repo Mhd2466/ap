@@ -11,6 +11,7 @@ public class E62c {
         int sum = 0;
         int num;
 
+        
         while (true) {
             num = scanner.nextInt();
             if (num == 0) break; 
