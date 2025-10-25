@@ -12,6 +12,7 @@ public class E62b {
         int oddCount = 0;
         int num;
 
+        
         while (true) {
             num = scanner.nextInt();
             if (num == 0) break; 
