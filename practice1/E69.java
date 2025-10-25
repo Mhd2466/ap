@@ -27,3 +27,4 @@ public class E69 {
         scanner.close();
     }
 }
+
