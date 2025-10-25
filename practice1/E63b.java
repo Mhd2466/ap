@@ -19,6 +19,7 @@ public class E63b {
             System.out.print(input.charAt(i));
         }
 
+        
         System.out.println();
     }
     
